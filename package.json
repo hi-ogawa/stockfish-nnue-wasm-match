@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "engine1": "npm:stockfish-nnue.wasm@^0.0.2-dev.7c1b679a",
+    "engine2": "npm:stockfish-nnue.wasm@^1.0.0-dev.e3613959"
+  }
+}
